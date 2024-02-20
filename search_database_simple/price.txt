@@ -1,0 +1,9 @@
+10001     Apples (bunch)            4.59
+10002     Bananas (bunch)           4.99
+10003     Pears (bunch)             5.49
+20001     White bread (loaf)        2.69
+20002     Brown bread (loaf)        2.89
+20003     English Muffins (bag)     3.99
+30001     Sugar (5 lb bag)          3.99
+30002     Tea (box)                 4.29
+30003     Folger's Coffee (Can)     13.29
